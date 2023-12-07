@@ -2,7 +2,8 @@
 
 ## About the Project
 * The Flutter Dialogflow Agent, "DiaBot" is a cross-platform chatbot made using Flutter and Dialogflow.
-* The application has been developed in the partial fulfilment of the requirements of Semester VII, B. Tech. Computer Science and Engineering. (Subject: Mobile Application Development)
+* The application has been developed in the partial fulfilment of the requirements of Semester VII, B. Tech. Computer Science and Engineering. (Subject: Mobile Application Development).
+* Although this repository contains the code to run the entire application, the main codes that add the chatbot functionality to the application (including layout) lie in the "lib" folder of this repository.
 
 ## Running the Project
 To run the project in your machine, please make sure to follow the steps given below:-
